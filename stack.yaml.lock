@@ -3,7 +3,14 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: api-builder-0.17.0.0@sha256:e3147e66a3f84b2e0542048716e1f25993fcf97e4f1b4319a2124a68ae03f6fe,2326
+    pantry-tree:
+      sha256: 318e2a37bc0b68f93627428700972cb059a086b503b6ddd69f7ed84525326f92
+      size: 1416
+  original:
+    hackage: api-builder-0.17.0.0
 snapshots:
 - completed:
     sha256: 9fa4bece7acfac1fc7930c5d6e24606004b09e80aa0e52e9f68b148201008db9
