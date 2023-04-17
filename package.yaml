@@ -1,10 +1,10 @@
 name:                pokeapi
 version:             0.1.0.0
-github:              "githubuser/pokeapi"
+github:              "cafuneandchill/pokeapi"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2023 Author name here"
+author:              "cafuneandchill"
+maintainer:          "cafuneandchill@github.com"
+copyright:           "2023 cafuneandchill"
 
 extra-source-files:
 - README.md
