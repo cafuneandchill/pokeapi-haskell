@@ -4,6 +4,8 @@ module PokeAPI
 
 import Network.API.Builder as API
 
+import Data.Text (Text)
+
 
 builder :: Builder
-builder = undefined
+builder = basicBuilder "PokeAPI" "https://pokeapi.co/api/v2"
