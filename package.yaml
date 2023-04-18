@@ -38,6 +38,7 @@ ghc-options:
 
 default-extensions:
 - OverloadedStrings
+- DeriveGeneric
 
 library:
   source-dirs: src
