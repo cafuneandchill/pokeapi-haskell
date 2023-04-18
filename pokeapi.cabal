@@ -26,6 +26,11 @@ source-repository head
 library
   exposed-modules:
       PokeAPI
+      PokeAPI.Types.Berry.Berry
+      PokeAPI.Types.Berry.BerryFirmness
+      PokeAPI.Types.Berry.BerryFlavor
+      PokeAPI.Types.Utility.Name
+      PokeAPI.Types.Utility.NamedAPIResource
   other-modules:
       Paths_pokeapi
   hs-source-dirs:
